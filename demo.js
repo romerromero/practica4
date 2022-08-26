@@ -1,2 +1,2 @@
-console.log("Hola clase!")
+console.log("Hola clase dia6")
 console.log("Diplomado Full Stack!")
